@@ -1,0 +1,50 @@
+[
+  {
+    "_id" : ObjectId("58cd20a28eab4f58274284af"),
+    "name" : "RMIT Vietnam",
+    "lat" : 10.729463,
+    "lng" : 106.695321,
+    "city" : "Hồ Chí Minh",
+    "district" : "Quận 7"
+  },
+  {
+    "_id" : ObjectId("58cd20a28eab4f58274284b0"),
+    "name" : "Vivo City",
+    "lat" : 10.729507,
+    "lng" : 106.703028,
+    "city" : "Hồ Chí Minh",
+    "district" : "Quận 7"
+  },
+  {
+    "_id" : ObjectId("58cfe9637dbe2538f7bf038f"),
+    "name" : "SSS",
+    "lat" : 10.723188,
+    "lng" : 106.715430,
+    "city" : "Hồ Chí Minh",
+    "district" : "Quận 7"
+  },
+  {
+    "_id" : ObjectId("58f2ac54ddd17c8b4a89b104"),
+    "name" : "Le Thi Rieng Park",
+    "lat" : 10.770159,
+    "lng" : 106.689940,
+    "city" : "Hồ Chí Minh",
+    "district" : "Tân Bình"
+  },
+  {
+    "_id" : ObjectId("58f2ae88ddd17c8b4a89b202"),
+    "name" : "Codebox",
+    "lat" : 10.808685,
+    "lng" : 106.665339,
+    "city" : "Hồ Chí Minh",
+    "district" : "Tân Bình"
+  },
+  {
+    "_id" : ObjectId("5917e7b8135854b5de82adea"),
+    "name" : "Duc Ba Church",
+    "lat" : 10.779687,
+    "lng" : 106.699124,
+    "city" : "Hồ Chí Minh",
+    "district" : "Quận 1"
+  }
+]
